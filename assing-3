@@ -1,1 +1,8 @@
+# Write a Python program that accepts a word from the user and reverse it.
 
+
+
+x = 'edyoda'
+stringlength = len(x)
+slicedstring =x [stringlength::-1]
+print(slicedstring)
