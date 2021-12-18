@@ -2,7 +2,7 @@
 
 
 
-x = 'edyoda'
+x = 'Edyoda'
 stringlength = len(x)
 slicedstring =x [stringlength::-1]
 print(slicedstring)
