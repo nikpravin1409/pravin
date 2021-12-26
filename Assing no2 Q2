@@ -1,1 +1,12 @@
+# Write a Python program to print a dictionary whose keys should be the alphabet from a-z and the value should be corresponding ASCII valuesWrite a Python program to print a dictionary whose keys should be the alphabet from a-z and the value should be corresponding ASCII values
 
+
+
+
+
+x = {}
+
+for i in range(97,123):
+    x[chr(i)] = i
+
+print(x)
