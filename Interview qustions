@@ -1,0 +1,20 @@
+Explain the ternary operator in Python.
+Why are these data types known as Python’s core data types?
+What does immutable mean and what three types of Python core data types are considered immutable?
+What does sequence mean and which three types of data fall into this category?
+What does mapping mean and what kind of data type is based on mapping?
+What is the data type of print(type(0xFF))
+Bitwise shift operators (<<, >>) has higher precedence than Bitwise And(&) operator
+What is the output of print(2%6)
+What are the three main conditional statements in Python?
+In Python 2.5+, the equivalent of a tertiary operator has been added to the language. Provide an example of its use.
+How are if, elif, and else blocks defined?
+What keyword is used for looping
+What module is used for generating random values?
+What keyword is used to skip back to the beginning of a loop?
+What keyword is used to end looping completely?
+What numbers does the following Range generate: range(5,10)
+What does the following loop do?
+Write a Python function to find the Max of three numbers
+Write a Python function to sum all the numbers in a list.
+Write a Python function to calculate the factorial of a number (a non-negative integer). The function accepts the number as an argument
